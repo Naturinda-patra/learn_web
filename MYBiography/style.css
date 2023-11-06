@@ -3,6 +3,7 @@ body{
 }
 h1{
     text-align: center;
+    border: dotted 5px white;
 }
 li{
     text-align: left;
